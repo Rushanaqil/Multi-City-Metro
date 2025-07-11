@@ -44,3 +44,39 @@ class Vertex {
     unordered_map<string, int> neighbours;
     // Stores connected stations and distances
 };
+
+
+
+************ INDIA METRO FARE CALCULATOR ************
+
+1. Show All Stations
+2. Show Metro Map
+3. Get Shortest Distance
+4. Get Fastest Time
+
+Enter source and destination:
+Noida Sector 62~B
+New Delhi~YO
+
+Shortest distance: 25 km
+Path: Noida Sector 62~B -> Botanical Garden~B -> ... -> New Delhi~YO
+
+
+## Project Structure
+
+Single-file implementation (`main.cpp`) containing:
+- City metro maps
+- Graph logic
+- Menu system
+
+## Future Enhancements
+
+- GUI implementation
+- Real-time fare calculation
+- Expanded station datasets
+- Interchange-based path customization
+
+---
+
+**Author**: Rushan Aqil  
+**Education**: Final Year B.Tech (Computer Engineering)
