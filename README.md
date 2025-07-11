@@ -47,7 +47,7 @@ class Vertex {
 ```
 
 
-###************ INDIA METRO FARE CALCULATOR ************
+## Features Of INDIA METRO FARE CALCULATOR 
 
 1. Show All Stations
 2. Show Metro Map
